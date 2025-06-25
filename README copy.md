@@ -35,7 +35,8 @@ This project analyzes travel booking data from TravClan using Python and visuali
 - **Suggestions**:
   - Use dynamic pricing algorithms
   - Optimize based on market demand and seasonal trends
-![Markup Variance](image.png)
+
+![Markup Variance](extracted_images/slide3_img6.png)
 
 ---
 
@@ -47,7 +48,7 @@ This project analyzes travel booking data from TravClan using Python and visuali
   - Enhance mobile app UI/UX
   - Launch exclusive app-only offers and ad campaigns
 
-![Channel Sales](image-1.png))
+![Channel Sales](extracted_images/slide5_img6.png)
 
 ---
 
@@ -58,7 +59,7 @@ This project analyzes travel booking data from TravClan using Python and visuali
   - Offer early bird discounts
   - Run seasonal promotions
 
-![Booking Trends](image-2.png))
+![Booking Trends](extracted_images/slide8_img6.png)
 
 ---
 
@@ -68,7 +69,7 @@ This project analyzes travel booking data from TravClan using Python and visuali
   - Onboard diverse suppliers
   - Monitor supplier performance metrics
 
-![Supplier Dependence](image-3.png)
+![Supplier Dependence](extracted_images/slide10_img6.png)
 
 ---
 
@@ -79,7 +80,7 @@ This project analyzes travel booking data from TravClan using Python and visuali
   - Offer flexible rebooking or vouchers
   - Analyze and reduce refund triggers
 
-![Refund Patterns](image-4.png)
+![Refund Patterns](extracted_images/slide12_img6.png)
 
 ---
 
